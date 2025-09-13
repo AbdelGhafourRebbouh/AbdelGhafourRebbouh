@@ -4,6 +4,10 @@
 <!-- or visitor badge (laobi) -->
 ![](https://visitor-badge.laobi.icu/badge?page_id=abdelghafourrebbouh.abdelghafourrebbouh)
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=AbdelGhafourRebbouh&fontSize=40&fontAlignY=35&animation=twinkling" />
+</p>
+
 
 
 
