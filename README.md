@@ -1,4 +1,4 @@
-[![Actions Status](https://github.com/abdelghafourrebbouh/abdelghafourrebbouh/workflows/update-gh-activity/badge.svg)](https://github.com/abdelghafourrebbouh/abdelghafourrebbouh/actions)
+(https://github.com/abdelghafourrebbouh/abdelghafourrebbouh/actions)
 ![](https://visitor-badge.laobi.icu/badge?page_id=abdelghafourrebbouh.abdelghafourrebbouh)
 
 <p align="center">
