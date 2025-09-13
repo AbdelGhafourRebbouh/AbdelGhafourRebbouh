@@ -26,7 +26,7 @@ located_in: Algeria
 from: Algeria
 education: ["High School Student"]
 current_focus: ["Backend Development", ".NET (C#)", "Desktop Applications"]
-languages_known: ["C++", "HTML", "CSS", "JavaScript"]
+languages_known: ["C++", "C#", "HTML", "CSS", "JavaScript"]
 past_experiences:
   - ["Freelance Frontend Developer", "HTML/CSS Projects", "Alat Factory", "2024"]
   - ["Frontend Practice Projects", "Elzero Web School Tutorials", "2023-2024"]
