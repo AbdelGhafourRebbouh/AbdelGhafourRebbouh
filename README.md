@@ -9,14 +9,8 @@
 </p>
 
 
-You paste that in a fenced code block for a **retro hacker look**.
-
----
-
-### 🔹 Option 3 – Shields.io badges (colorful modern style)
-```markdown
 <p align="center">
-  <img src="https://img.shields.io/badge/AbdelGhafourRebbouh-000000?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://socialify.git.ci/abdelghafourrebbouh/abdelghafourrebbouh/image?description=1&font=Source%20Code%20Pro&language=1&name=1&owner=1&pattern=Diagonal%20Stripes&theme=Dark" alt="AbdelGhafourRebbouh" width="700" height="300" />
 </p>
 
 
