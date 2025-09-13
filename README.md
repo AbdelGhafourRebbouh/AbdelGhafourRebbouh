@@ -9,9 +9,6 @@
 </p>
 
 
-<p align="center">
-  <img src="https://socialify.git.ci/abdelghafourrebbouh/abdelghafourrebbouh/image?description=1&font=Source%20Code%20Pro&language=1&name=1&owner=1&pattern=Diagonal%20Stripes&theme=Dark" alt="AbdelGhafourRebbouh" width="700" height="300" />
-</p>
 
 
 
