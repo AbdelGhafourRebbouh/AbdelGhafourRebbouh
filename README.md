@@ -1,4 +1,9 @@
+<!-- visitor badge (glitch) -->
 ![](https://visitor-badge.glitch.me/badge?page_id=abdelghafourrebbouh.abdelghafourrebbouh)
+
+<!-- or visitor badge (laobi) -->
+![](https://visitor-badge.laobi.icu/badge?page_id=abdelghafourrebbouh.abdelghafourrebbouh)
+
 
 
 
