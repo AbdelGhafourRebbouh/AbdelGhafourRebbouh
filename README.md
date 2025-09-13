@@ -9,6 +9,16 @@
 </p>
 
 
+You paste that in a fenced code block for a **retro hacker look**.
+
+---
+
+### 🔹 Option 3 – Shields.io badges (colorful modern style)
+```markdown
+<p align="center">
+  <img src="https://img.shields.io/badge/AbdelGhafourRebbouh-000000?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
 
 
 [![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=abdelghafourrebbouh&theme=github-dark-dimmed&custom_title=Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
