@@ -8,9 +8,23 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=AbdelGhafourRebbouh&fontSize=40&fontAlignY=35&animation=twinkling" />
 </p>
 
-
-
-
+<p align="center">
+<pre>
+         .---...__
+       .'  _.._    `-.
+      /  .'    `'--..._'.
+     |  /      /   \   \ |
+     | /__..._/    /__..\|
+     .-' .--.      .--. '-.
+    ( |  (  O)    (  O)  | )
+     `|   `''      `''   |`
+      |       _.._       |
+      |      (_/\_)      |
+      \    .--''''--.    /
+       '._  `'----'`  _.'
+          `''-------''`
+</pre>
+</p>
 
 [![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=abdelghafourrebbouh&theme=github-dark-dimmed&custom_title=Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
