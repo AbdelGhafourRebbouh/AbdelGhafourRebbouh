@@ -1,12 +1,14 @@
 <!-- visitor badge (glitch) -->
- ________  ________  ________  _______   ___       ________  ___  ___  ________  ________ ________  ___  ___  ________     
-|\   __  \|\   __  \|\   ___ \|\  ___ \ |\  \     |\   ____\|\  \|\  \|\   __  \|\  _____\\   __  \|\  \|\  \|\   __  \    
-\ \  \|\  \ \  \|\ /\ \  \_|\ \ \   __/|\ \  \    \ \  \___|\ \  \\\  \ \  \|\  \ \  \__/\ \  \|\  \ \  \\\  \ \  \|\  \   
- \ \   __  \ \   __  \ \  \ \\ \ \  \_|/_\ \  \    \ \  \  __\ \   __  \ \   __  \ \   __\\ \  \\\  \ \  \\\  \ \   _  _\  
-  \ \  \ \  \ \  \|\  \ \  \_\\ \ \  \_|\ \ \  \____\ \  \|\  \ \  \ \  \ \  \ \  \ \  \_| \ \  \\\  \ \  \\\  \ \  \\  \| 
-   \ \__\ \__\ \_______\ \_______\ \_______\ \_______\ \_______\ \__\ \__\ \__\ \__\ \__\   \ \_______\ \_______\ \__\\ _\ 
-    \|__|\|__|\|_______|\|_______|\|_______|\|_______|\|_______|\|__|\|__|\|__|\|__|\|__|    \|_______|\|_______|\|__|\|__|
-                                                                                                                           
+![](https://visitor-badge.glitch.me/badge?page_id=abdelghafourrebbouh.abdelghafourrebbouh)
+
+<!-- or visitor badge (laobi) -->
+![](https://visitor-badge.laobi.icu/badge?page_id=abdelghafourrebbouh.abdelghafourrebbouh)
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=AbdelGhafourRebbouh&fontSize=40&fontAlignY=35&animation=twinkling" />
+</p>
+
+<p align="center">
                                                                                                                            
                                                                                                                            
 <pre>
