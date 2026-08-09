@@ -20,13 +20,36 @@
 [![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=abdelghafourrebbouh&theme=github-dark-dimmed&custom_title=Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ```yaml
-name: AB Ghafour Rebbouh
+name: AbdelGhafour Rebbouh
 located_in: Algeria
-role: Graphic Designer | Developer
-education: ["Self-Taught Frontend", "Learning Backend with .NET C#", "C++ Background"]
-freelance: ["Brand Identity Projects", "Frontend Projects"]
-skills: ["Frontend Development", "Branding", "UI/UX Design"]
-languages: ["HTML", "CSS", "JavaScript", "C#", "C++"]
-currently_learning: [".NET", "Desktop Development", "Git & GitHub"]
-will_learn: ["Advanced Backend", "Databases", "Fullstack Development"]
-hobbies: ["Design", "Coding", "Learning", "Reading"]
+role: Software Developer | Graphic Designer
+education: 
+  - High School Graduate
+  - C++ Background
+  - Self-Taught Developer
+freelance: 
+  - Brand Identity Projects
+  - Web & Desktop Development
+skills: 
+  - Software Development
+  - UI/UX Design
+  - Branding
+languages: 
+  - C++
+  - Python
+  - C#
+  - JavaScript
+  - HTML & CSS
+currently_learning: 
+  - .NET Framework
+  - Desktop Development (C#)
+  - Python (Active Project)
+  - Git & GitHub
+will_learn: 
+  - Advanced Backend
+  - Databases
+  - Full-Stack Development
+hobbies: 
+  - Coding & Open Source
+  - Design
+  - Reading
