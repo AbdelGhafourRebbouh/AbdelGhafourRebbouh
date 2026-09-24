@@ -1,25 +1,3 @@
-<!-- visitor badge (glitch) -->
-![](https://visitor-badge.glitch.me/badge?page_id=abdelghafourrebbouh.abdelghafourrebbouh)
-
-<!-- or visitor badge (laobi) -->
-![](https://visitor-badge.laobi.icu/badge?page_id=abdelghafourrebbouh.abdelghafourrebbouh)
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=AbdelGhafourRebbouh&fontSize=40&fontAlignY=35&animation=twinkling" />
-</p>
-
-<p align="center">
-                                                                                                                           
-                                                                                                                           
-<pre>
-
-
-</pre>
-</p>
-
-[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=abdelghafourrebbouh&theme=github-dark-dimmed&custom_title=Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-```yaml
 name: AbdelGhafour Rebbouh
 located_in: Algeria
 role: Software Developer | Graphic Designer
@@ -45,11 +23,24 @@ currently_learning:
   - Desktop Development (C#)
   - Python (Active Project)
   - Git & GitHub
-will_learn: 
-  - Advanced Backend
-  - Databases
-  - Full-Stack Development
-hobbies: 
-  - Coding & Open Source
-  - Design
-  - Reading
+
+
+🚀 Featured Project
+
+biomes
+
+A lightweight, open-source Windows workspace manager built in C++17. Save complex multi-monitor window layouts and trigger them instantly with global hotkeys.
+
+🌐 Landing Page: biomes-one.vercel.app
+
+💻 Repository: GitHub
+
+📬 Writings & Newsletters
+
+Push to Main
+
+A developer newsletter focused on open-source projects, Git workflows, repository curation, and indie maker journeys.
+
+☕ Support My Work
+
+If you find my open-source tools or projects useful, consider supporting my work or buying me a coffee!
