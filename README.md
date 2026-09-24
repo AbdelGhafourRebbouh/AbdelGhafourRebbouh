@@ -28,11 +28,10 @@ languages:
   - C++
   - Python
   - C#
-  - JavaScript
   - HTML & CSS
 currently_learning: 
   - .NET Framework
-  - Desktop Development (C#)
+  - Desktop Development (C++)
   - Python (Active Project)
   - Git & GitHub
 ```
@@ -47,7 +46,7 @@ A lightweight, open-source Windows workspace manager built in C++17. Save comple
 
 ### 📬 Writings & Newsletters
 
-#### **Push to Main** web (soune)
+#### **Push to Main** (web soon)
 A developer newsletter focused on open-source projects, Git workflows, repository curation, and indie maker journeys.
 
 ---
