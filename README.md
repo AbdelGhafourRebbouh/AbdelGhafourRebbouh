@@ -55,6 +55,6 @@ A developer newsletter focused on open-source projects, Git workflows, repositor
 
 If you find my open-source tools or projects useful, consider supporting my work or buying me a coffee!
 
-<a href="[https://ko-fi.com/](https://ko-fi.com/abdelghafourrebbouh)">
+<a href="https://ko-fi.com/abdelghafourrebbouh">
   <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi" />
 </a>
