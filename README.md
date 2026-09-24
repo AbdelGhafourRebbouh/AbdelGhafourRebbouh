@@ -46,8 +46,9 @@ A lightweight, open-source Windows workspace manager built in C++17. Save comple
 
 ### 📬 Writings & Newsletters
 
-#### **Push to Main** (web soon)
+#### **[Push to Main](https://push-to-main.vercel.app)**
 A developer newsletter focused on open-source projects, Git workflows, repository curation, and indie maker journeys.
+* 🌐 **Landing Page:** [push-to-main.vercel.app](https://push-to-main.vercel.app)
 
 ---
 
